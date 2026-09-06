@@ -1,13 +1,19 @@
 # Arun Venkatachalam Portfolio
 
-Static portfolio website for GitHub Pages.
+Upload these files directly to the root of your GitHub Pages repository:
 
-## Publish with GitHub Pages
+`aruneer007.github.io`
 
-1. Upload all files in this folder to your repository.
-2. Go to **Settings → Pages**.
-3. Select **Deploy from a branch**.
-4. Choose **main** and **/(root)**.
-5. Leave **Custom domain** empty unless you own a separate domain such as `arunv.com`.
+Required files:
+- index.html
+- main.css
+- script.js
+- Arun_Venkatachalam_Resume.pdf
+- preview.png
+- .nojekyll
 
-The default `*.github.io` address is provided automatically by GitHub Pages based on your GitHub username/repository configuration.
+Then open:
+Settings -> Pages -> Deploy from a branch -> main -> / (root)
+
+Default site URL:
+https://aruneer007.github.io/
