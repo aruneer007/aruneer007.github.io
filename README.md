@@ -1,19 +1,5 @@
 # Arun Venkatachalam Portfolio
 
-Upload these files directly to the root of your GitHub Pages repository:
+Upload the files in this folder directly to the root of the `aruneer007.github.io` repository.
 
-`aruneer007.github.io`
-
-Required files:
-- index.html
-- main.css
-- script.js
-- Arun_Venkatachalam_Resume.pdf
-- preview.png
-- .nojekyll
-
-Then open:
-Settings -> Pages -> Deploy from a branch -> main -> / (root)
-
-Default site URL:
-https://aruneer007.github.io/
+The social icons are inline SVG inside `index.html`; no Font Awesome or external icon files are required.
