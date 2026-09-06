@@ -1,13 +1,17 @@
 # Arun Venkatachalam Portfolio
 
-GitHub Pages portfolio for Arun Venkatachalam.
+GitHub Pages repository: `aruneer007.github.io`
 
-## Publish
+Upload the contents of this folder directly to the repository root.
 
-1. Use a GitHub repository named `aruneer007.github.io`.
-2. Upload the files **inside this folder** to the repository root.
-3. In GitHub: Settings -> Pages -> Deploy from a branch.
-4. Select `main` and `/ (root)`.
-5. Your site will be available at `https://aruneer007.github.io/`.
+Required structure:
+- index.html
+- main.css
+- script.js
+- kaggle-icon.png
+- preview.png
+- Arun_Venkatachalam_Resume.pdf
+- font-awesome-4.7.0/  (IMPORTANT: keep the whole folder including `fonts/`)
+- .nojekyll
 
-The social section contains only GitHub, LinkedIn, and Kaggle.
+GitHub Pages settings: Deploy from branch -> main -> /(root).
